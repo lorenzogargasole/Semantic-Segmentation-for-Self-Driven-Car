@@ -9,8 +9,7 @@ This project focuses on semantic segmentation techniques to enhance the percepti
 - [Installation](#installation)
 - [CodeFlow](#codeflow)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Features
 
 - Pixel-wise classification of road scenes
@@ -46,9 +45,3 @@ https://drive.google.com/file/d/1NFAfvMvVWFod3SlKYVU2FLD5OZgTPQRG/view?usp=drive
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
