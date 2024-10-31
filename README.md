@@ -8,7 +8,7 @@ This project focuses on semantic segmentation techniques to enhance the percepti
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [CodeFlow Schema](#codeflow)
 - [License](#license)
 
 ## Features
@@ -26,3 +26,7 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository:
    ```bash
    git clone https://github.com/tuo-username/Semantic-Segmentation-for-Self-Driven-Cars.git
+
+5. Codeflow Schema
+These are all the notes I take during the project. Contains all the variable's content and size and all the relations between files.
+https://drive.google.com/file/d/1NFAfvMvVWFod3SlKYVU2FLD5OZgTPQRG/view?usp=drive_link
