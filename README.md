@@ -7,8 +7,8 @@ This project focuses on semantic segmentation techniques to enhance the percepti
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
-- [CodeFlow Schema](#codeflow)
+- [CodeFlow](#codeflow)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -26,8 +26,29 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository:
    ```bash
    git clone https://github.com/tuo-username/Semantic-Segmentation-for-Self-Driven-Cars.git
+   ```
+   
+2. Navigate into the project directory:
+   ```bash
+   cd Semantic-Segmentation-for-Self-Driven-Cars
+   ```
+
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ### Codeflow Schema
 These are all the notes I take during the project. Contains all the variable's content and size and all the relations between files.
-See it here
+Download it here
 https://drive.google.com/file/d/1NFAfvMvVWFod3SlKYVU2FLD5OZgTPQRG/view?usp=drive_link
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
